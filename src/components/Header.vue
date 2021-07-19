@@ -9,11 +9,11 @@
 import Button from "./Button"
 export default {
     name: 'Header',
-    components: {
-        Button,
-    },
     props: {
         title: String,
+    },
+    components: {
+        Button,
     },
     /*
     advance way of writing properties with default values and defined dtype 
