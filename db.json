@@ -1,15 +1,9 @@
 {
   "tasks": [
     {
-      "text": "task 3",
-      "day": "21 July @ 2:30PM",
-      "reminder": true,
-      "id": 62674
-    },
-    {
       "text": "School Inspection",
       "day": "27 july",
-      "reminder": false,
+      "reminder": true,
       "id": 62675
     },
     {
@@ -19,7 +13,7 @@
       "id": 62676
     },
     {
-      "text": "grrf",
+      "text": "test 1",
       "day": "21 july",
       "reminder": true,
       "id": 62677
