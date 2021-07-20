@@ -1,5 +1,5 @@
 # first-vue
-
+This is actually my first vue project and its a task tracker i hope to make more improvements going forward
 ## Project setup
 ```
 npm install
